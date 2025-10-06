@@ -1,0 +1,61 @@
+{
+    "success": true,
+    "title": "Cam1",
+    "count": 18,
+    "items": {
+        "1": {
+            "status": false
+        },
+        "2": {
+            "status": false
+        },
+        "3": {
+            "status": false
+        },
+        "4": {
+            "status": false
+        },
+        "5": {
+            "status": true
+        },
+        "6": {
+            "status": true
+        },
+        "7": {
+            "status": false
+        },
+        "8": {
+            "status": true
+        },
+        "9": {
+            "status": false
+        },
+        "10": {
+            "status": false
+        },
+        "11": {
+            "status": false
+        },
+        "12": {
+            "status": false
+        },
+        "13": {
+            "status": false
+        },
+        "14": {
+            "status": true
+        },
+        "15": {
+            "status": true
+        },
+        "16": {
+            "status": true
+        },
+        "17": {
+            "status": false
+        },
+        "18": {
+            "status": false
+        }
+    }
+}

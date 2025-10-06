@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "title": "Cam2",
+  "count": 17,
+  "items": {
+    "19": {
+      "status": false
+    },
+    "20": {
+      "status": false
+    },
+    "21": {
+      "status": true
+    },
+    "22": {
+      "status": false
+    },
+    "23": {
+      "status": false
+    },
+    "24": {
+      "status": false
+    },
+    "25": {
+      "status": true
+    },
+    "26": {
+      "status": true
+    },
+    "27": {
+      "status": false
+    },
+    "28": {
+      "status": false
+    },
+    "29": {
+      "status": true
+    },
+    "30": {
+      "status": false
+    },
+    "31": {
+      "status": true
+    },
+    "32": {
+      "status": true
+    },
+    "33": {
+      "status": false
+    },
+    "34": {
+      "status": false
+    },
+    "35": {
+      "status": false
+    }
+  }
+}

@@ -1,0 +1,7 @@
+__pycache__/
+raw_data/
+venv/
+*.avi
+*.mp4
+*.jpg
+test_yolo.py
